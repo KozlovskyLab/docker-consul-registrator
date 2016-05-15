@@ -4,8 +4,8 @@ Dockerizing Consul Registrator
 
 :Author: Vladimir Kozlovski
 :Contact: inbox@vladkozlovski.com
-:Issues: https://github.com/vkozlovski/docker-consul-registrator/issues
-:Docker image: https://hub.docker.com/r/vkozlovski/consul-registrator/
+:Issues: https://github.com/kozlovskistudio/docker-consul-registrator/issues
+:Docker image: https://hub.docker.com/r/kozlovskistudio/consul-registrator/
 :Description: Dockerfile to build a Consul Registrator container image.
 
 :Release notes: https://github.com/gliderlabs/registrator/releases
