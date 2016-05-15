@@ -1,7 +1,7 @@
 FROM alpine:latest
 MAINTAINER Vladimir Kozlovski <inbox@vladkozlovski.com>
 
-ENV CONSUL_REGISTRATOR_VERSION 6
+ENV CONSUL_REGISTRATOR_VERSION 7
 
 ADD https://github.com/gliderlabs/registrator/archive/v${CONSUL_REGISTRATOR_VERSION}.zip /tmp/consul-registrator.zip
 
